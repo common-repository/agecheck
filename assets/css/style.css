@@ -1,0 +1,2 @@
+iframe { margin: 0 !important; }
+#merchant-iframe-overlay, #agechecked-merchant-iframe-overlay { z-index: 99999; }
